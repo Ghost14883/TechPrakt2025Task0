@@ -32,5 +32,5 @@
 - [x] `git remote add`
 - [x] `git push`
 - [x] `git pull`
-- [x] `git branch`
+- [ ] `git branch`
 Виконав: _**Ульянинський Богдан**_
